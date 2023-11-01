@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0D5D9&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Mariana+Lourenço;Eu+Tenho+20+anos;Eu+sou+do+Brasil;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-<img align="right" height="450" src="https://user-images.githubusercontent.com/79528709/279540462-f25d7e63-92c3-470c-9269-fcd0faedf1ce.png"  />
+<img align="right" height="400" src="https://user-images.githubusercontent.com/79528709/279540462-f25d7e63-92c3-470c-9269-fcd0faedf1ce.png"  />
 
 <h3 align="left">👩🏻‍💻 Sobre mim</h3>
 
