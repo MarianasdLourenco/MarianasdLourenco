@@ -56,10 +56,10 @@
   <img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=B0D5D9" height="30" alt="Python" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B0D5D9&height=120&section=footer"/>
-
 <details>
 <summary> </summary>
  - Badges por <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">alexandresanlim</a><br>
  - Ilustração por <a href="https://storyset.com/communication">Communication illustrations por Storyset</a>
 </details>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B0D5D9&height=120&section=footer"/>
